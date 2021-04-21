@@ -1,5 +1,7 @@
 # Longhorn Helm Repository
 
+![Longhorn](assets/longhorn-icon-color.png)
+
 Add Longhorn repository to Helm repos:
 
 ```bash
